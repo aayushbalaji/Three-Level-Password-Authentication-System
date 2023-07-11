@@ -1,9 +1,9 @@
 # Three-Level-Password-Authentication-System
 
-### Hey guys, here are some instructions to get started with running the project on your device.
+### Welcome, here are some instructions to get started with running the project on your device:
 
 
-So first of all, download these files I have pushed into this private repository, and save them in some preferred directory. Open VSCode, and open this directory there so you should see the files in the left side panel now. 
+So first of all, download the above files and save them in some preferred directory. Open VSCode, and open this directory there so you should see the files in the left side panel now. 
 
 Now, it's a healthy practice to run the project in a virtual environment so that it any installations that you do may not affect or interfere with the existing installations on your system. So open a new terminal in VSCode, and type the command <code>python -m venv env</code>. Note that <code>env</code> here is just a name for the environment, if you so wish you can give it any other name. To activate the environment, type the command <code>env\Scripts\activate</code>. You should see (env) in the terminal in the left side.
 
